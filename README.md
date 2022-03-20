@@ -26,3 +26,6 @@ The bike sales data is sourced from website Kaggle. I selected the data because 
 7.	Are there differences within countries in terms of ordering numbers?
 8.	Do sales numbers change throughout the years? Why?
 
+### Tableau storyboard link:
+https://public.tableau.com/shared/CFM7PQ4X5?:display_count=n&:origin=viz_share_link
+
