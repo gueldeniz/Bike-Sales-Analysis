@@ -1,6 +1,6 @@
 # Bike-Sales-Analysis
 
-For my last student project in Career Foundry Data Analytics Course, I have chosen the Bike Sales data set. This is an external data source extracted from Kaggle. The data contains sales figures of bicycling products from Europe, USA, and Australia, between the years 2011 and 2016.
+For my last student project in CareerFoundry Data Analytics Course, I have chosen the Bike Sales data set. This is an external data source extracted from Kaggle. The data contains sales figures of bicycling products from Europe (Germany, France, UK), USA, and Australia, between the years 2011 and 2016.
 
 The data comprises of cost, revenue, profit, and unit price. Country and state information, gender of customers and age groups, as well as, product categories and sub categories are also to be found. Although it is not mentioned, the data probably belongs to a bicycle company that has stores in various countries, because the records include figures from Australia, Canada, France, Germany, UK and USA. With the dataset, the relationship between profit and age groups or gender can be observed. Additionally, profit percentage for each country, which products are sold the most in given years can be analysed.
 
